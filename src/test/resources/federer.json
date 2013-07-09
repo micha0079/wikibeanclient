@@ -1,0 +1,1669 @@
+{
+    "entities": {
+        "q1426": {
+            "pageid": 1854,
+            "ns": 0,
+            "title": "Q1426",
+            "lastrevid": 52981602,
+            "modified": "2013-06-28T05:34:55Z",
+            "id": "q1426",
+            "type": "item",
+            "aliases": {
+                "en": [
+                    {
+                        "language": "en",
+                        "value": "Swiss Maestro"
+                    },
+                    {
+                        "language": "en",
+                        "value": "King Roger"
+                    },
+                    {
+                        "language": "en",
+                        "value": "Federer Express"
+                    },
+                    {
+                        "language": "en",
+                        "value": "The Swiss Maestro"
+                    },
+                    {
+                        "language": "en",
+                        "value": "The Federer Express"
+                    }
+                ]
+            },
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "Roger Federer"
+                },
+                "it": {
+                    "language": "it",
+                    "value": "Roger Federer"
+                },
+                "es": {
+                    "language": "es",
+                    "value": "Roger Federer"
+                },
+                "en-ca": {
+                    "language": "en-ca",
+                    "value": "Roger Federer"
+                },
+                "en-gb": {
+                    "language": "en-gb",
+                    "value": "Roger Federer"
+                },
+                "af": {
+                    "language": "af",
+                    "value": "Roger Federer"
+                },
+                "als": {
+                    "language": "als",
+                    "value": "Roger Federer"
+                },
+                "an": {
+                    "language": "an",
+                    "value": "Roger Federer"
+                },
+                "ar": {
+                    "language": "ar",
+                    "value": "\u0631\u0648\u062c\u0631 \u0641\u064a\u062f\u0631\u064a\u0631"
+                },
+                "arz": {
+                    "language": "arz",
+                    "value": "\u0631\u0648\u062c\u0631 \u0641\u064a\u062f\u064a\u0631\u0627\u0631"
+                },
+                "ast": {
+                    "language": "ast",
+                    "value": "Roger Federer"
+                },
+                "az": {
+                    "language": "az",
+                    "value": "Roger Federer"
+                },
+                "bar": {
+                    "language": "bar",
+                    "value": "Roger Federer"
+                },
+                "be": {
+                    "language": "be",
+                    "value": "\u0420\u043e\u0434\u0436\u044d\u0440 \u0424\u0435\u0434\u044d\u0440\u044d\u0440"
+                },
+                "bg": {
+                    "language": "bg",
+                    "value": "\u0420\u043e\u0434\u0436\u044a\u0440 \u0424\u0435\u0434\u0435\u0440\u0435\u0440"
+                },
+                "bn": {
+                    "language": "bn",
+                    "value": "\u09b0\u099c\u09be\u09b0 \u09ab\u09c7\u09a6\u09c7\u09b0\u09be\u09b0"
+                },
+                "br": {
+                    "language": "br",
+                    "value": "Roger Federer"
+                },
+                "bs": {
+                    "language": "bs",
+                    "value": "Roger Federer"
+                },
+                "bxr": {
+                    "language": "bxr",
+                    "value": "\u0420\u043e\u0434\u0436\u0435\u0440 \u0424\u0435\u0434\u0435\u0440\u0435\u0440"
+                },
+                "ca": {
+                    "language": "ca",
+                    "value": "Roger Federer"
+                },
+                "ceb": {
+                    "language": "ceb",
+                    "value": "Roger Federer"
+                },
+                "ckb": {
+                    "language": "ckb",
+                    "value": "\u0695\u06c6\u062c\u06d5\u0631 \u0641\u06ce\u062f\u06ce\u0631\u06ce\u0631"
+                },
+                "cs": {
+                    "language": "cs",
+                    "value": "Roger Federer"
+                },
+                "cv": {
+                    "language": "cv",
+                    "value": "\u0420\u043e\u0434\u0436\u0435\u0440 \u0424\u0435\u0434\u0435\u0440\u0435\u0440"
+                },
+                "cy": {
+                    "language": "cy",
+                    "value": "Roger Federer"
+                },
+                "da": {
+                    "language": "da",
+                    "value": "Roger Federer"
+                },
+                "de": {
+                    "language": "de",
+                    "value": "Roger Federer"
+                },
+                "de-formal": {
+                    "language": "de-formal",
+                    "value": "Roger Federer"
+                },
+                "dsb": {
+                    "language": "dsb",
+                    "value": "Roger Federer"
+                },
+                "el": {
+                    "language": "el",
+                    "value": "\u03a1\u03cc\u03c4\u03b6\u03b5\u03c1 \u03a6\u03ad\u03bd\u03c4\u03b5\u03c1\u03b5\u03c1"
+                },
+                "eo": {
+                    "language": "eo",
+                    "value": "Roger Federer"
+                },
+                "et": {
+                    "language": "et",
+                    "value": "Roger Federer"
+                },
+                "eu": {
+                    "language": "eu",
+                    "value": "Roger Federer"
+                },
+                "fa": {
+                    "language": "fa",
+                    "value": "\u0631\u0627\u062c\u0631 \u0641\u062f\u0631\u0631"
+                },
+                "fi": {
+                    "language": "fi",
+                    "value": "Roger Federer"
+                },
+                "fr": {
+                    "language": "fr",
+                    "value": "Roger Federer"
+                },
+                "fy": {
+                    "language": "fy",
+                    "value": "Roger Federer"
+                },
+                "ga": {
+                    "language": "ga",
+                    "value": "Roger Federer"
+                },
+                "gl": {
+                    "language": "gl",
+                    "value": "Roger Federer"
+                },
+                "gu": {
+                    "language": "gu",
+                    "value": "\u0ab0\u0acb\u0a9c\u0ab0 \u0aab\u0ac7\u0aa1\u0ab0\u0ab0"
+                },
+                "he": {
+                    "language": "he",
+                    "value": "\u05e8\u05d5\u05d2'\u05e8 \u05e4\u05d3\u05e8\u05e8"
+                },
+                "hi": {
+                    "language": "hi",
+                    "value": "\u0930\u094b\u091c\u0930 \u092b\u093c\u0947\u0921\u0930\u0930"
+                },
+                "hr": {
+                    "language": "hr",
+                    "value": "Roger Federer"
+                },
+                "hsb": {
+                    "language": "hsb",
+                    "value": "Roger Federer"
+                },
+                "hu": {
+                    "language": "hu",
+                    "value": "Roger Federer"
+                },
+                "hy": {
+                    "language": "hy",
+                    "value": "\u054c\u0578\u057b\u0565\u0580 \u0556\u0565\u0564\u0565\u0580\u0565\u0580"
+                },
+                "id": {
+                    "language": "id",
+                    "value": "Roger Federer"
+                },
+                "io": {
+                    "language": "io",
+                    "value": "Roger Federer"
+                },
+                "is": {
+                    "language": "is",
+                    "value": "Roger Federer"
+                },
+                "ja": {
+                    "language": "ja",
+                    "value": "\u30ed\u30b8\u30e3\u30fc\u30fb\u30d5\u30a7\u30c7\u30e9\u30fc"
+                },
+                "jv": {
+                    "language": "jv",
+                    "value": "Roger Federer"
+                },
+                "ka": {
+                    "language": "ka",
+                    "value": "\u10e0\u10dd\u10ef\u10d4\u10e0 \u10e4\u10d4\u10d3\u10d4\u10e0\u10d4\u10e0\u10d8"
+                },
+                "kab": {
+                    "language": "kab",
+                    "value": "Ro\u011fer Federer"
+                },
+                "kk": {
+                    "language": "kk",
+                    "value": "\u0420\u043e\u0434\u0436\u0435\u0440 \u0424\u0435\u0434\u0435\u0440\u0435\u0440"
+                },
+                "kn": {
+                    "language": "kn",
+                    "value": "\u0cb0\u0ccb\u0c9c\u0cb0\u0ccd \u0cab\u0cc6\u0ca1\u0cb0\u0cb0\u0ccd"
+                },
+                "ko": {
+                    "language": "ko",
+                    "value": "\ub85c\uc800 \ud398\ub354\ub7ec"
+                },
+                "ksh": {
+                    "language": "ksh",
+                    "value": "Roger Federer"
+                },
+                "la": {
+                    "language": "la",
+                    "value": "Rogerius Federer"
+                },
+                "lt": {
+                    "language": "lt",
+                    "value": "Roger Federer"
+                },
+                "lv": {
+                    "language": "lv",
+                    "value": "Rod\u017eers Federers"
+                },
+                "mg": {
+                    "language": "mg",
+                    "value": "Roger Federer"
+                },
+                "mk": {
+                    "language": "mk",
+                    "value": "\u0420\u043e\u045f\u0435\u0440 \u0424\u0435\u0434\u0435\u0440\u0435\u0440"
+                },
+                "ml": {
+                    "language": "ml",
+                    "value": "\u0d31\u0d4b\u0d1c\u0d7c \u0d2b\u0d46\u0d21\u0d31\u0d7c"
+                },
+                "mn": {
+                    "language": "mn",
+                    "value": "\u0420\u043e\u0436\u0435\u0440 \u0424\u0435\u0434\u0435\u0440\u0435\u0440"
+                },
+                "mr": {
+                    "language": "mr",
+                    "value": "\u0930\u0949\u091c\u0930 \u092b\u0947\u0921\u0930\u0930"
+                },
+                "ms": {
+                    "language": "ms",
+                    "value": "Roger Federer"
+                },
+                "my": {
+                    "language": "my",
+                    "value": "\u101b\u1031\u102c\u103a\u1002\u103b\u102c \u1016\u1000\u103a\u1012\u101b\u102c"
+                },
+                "nl": {
+                    "language": "nl",
+                    "value": "Roger Federer"
+                },
+                "nn": {
+                    "language": "nn",
+                    "value": "Roger Federer"
+                },
+                "no": {
+                    "language": "no",
+                    "value": "Roger Federer"
+                },
+                "oc": {
+                    "language": "oc",
+                    "value": "Roger Federer"
+                },
+                "or": {
+                    "language": "or",
+                    "value": "\u0b30\u0b4b\u0b1c\u0b30 \u0b2b\u0b47\u0b21\u0b47\u0b30\u0b30\u0b4d"
+                },
+                "pam": {
+                    "language": "pam",
+                    "value": "Roger Federer"
+                },
+                "pl": {
+                    "language": "pl",
+                    "value": "Roger Federer"
+                },
+                "pt": {
+                    "language": "pt",
+                    "value": "Roger Federer"
+                },
+                "pt-br": {
+                    "language": "pt-br",
+                    "value": "Roger Federer"
+                },
+                "qu": {
+                    "language": "qu",
+                    "value": "Roger Federer"
+                },
+                "rm": {
+                    "language": "rm",
+                    "value": "Roger Federer"
+                },
+                "ro": {
+                    "language": "ro",
+                    "value": "Roger Federer"
+                },
+                "ru": {
+                    "language": "ru",
+                    "value": "\u0420\u043e\u0434\u0436\u0435\u0440 \u0424\u0435\u0434\u0435\u0440\u0435\u0440"
+                },
+                "scn": {
+                    "language": "scn",
+                    "value": "Roger Federer"
+                },
+                "sco": {
+                    "language": "sco",
+                    "value": "Roger Federer"
+                },
+                "sh": {
+                    "language": "sh",
+                    "value": "Roger Federer"
+                },
+                "si": {
+                    "language": "si",
+                    "value": "\u0dbb\u0ddc\u0da2\u0dbb\u0dca \u0dc6\u0dd9\u0da9\u0dbb\u0dbb\u0dca"
+                },
+                "simple": {
+                    "language": "simple",
+                    "value": "Roger Federer"
+                },
+                "sk": {
+                    "language": "sk",
+                    "value": "Roger Federer"
+                },
+                "sl": {
+                    "language": "sl",
+                    "value": "Roger Federer"
+                },
+                "sq": {
+                    "language": "sq",
+                    "value": "Roger Federer"
+                },
+                "sr": {
+                    "language": "sr",
+                    "value": "\u0420\u043e\u045f\u0435\u0440 \u0424\u0435\u0434\u0435\u0440\u0435\u0440"
+                },
+                "sv": {
+                    "language": "sv",
+                    "value": "Roger Federer"
+                },
+                "ta": {
+                    "language": "ta",
+                    "value": "\u0bb0\u0bca\u0b9c\u0bb0\u0bcd \u0baa\u0bc6\u0b9f\u0bb0\u0bb0\u0bcd"
+                },
+                "te": {
+                    "language": "te",
+                    "value": "\u0c30\u0c4b\u0c1c\u0c30\u0c4d \u0c2b\u0c46\u0c21\u0c30\u0c30\u0c4d"
+                },
+                "th": {
+                    "language": "th",
+                    "value": "\u0e42\u0e23\u0e40\u0e08\u0e2d\u0e23\u0e4c \u0e40\u0e1f\u0e40\u0e14\u0e2d\u0e40\u0e23\u0e2d\u0e23\u0e4c"
+                },
+                "tk": {
+                    "language": "tk",
+                    "value": "Rojer Federer"
+                },
+                "tl": {
+                    "language": "tl",
+                    "value": "Roger Federer"
+                },
+                "tr": {
+                    "language": "tr",
+                    "value": "Roger Federer"
+                },
+                "uk": {
+                    "language": "uk",
+                    "value": "\u0420\u043e\u0434\u0436\u0435\u0440 \u0424\u0435\u0434\u0435\u0440\u0435\u0440"
+                },
+                "ur": {
+                    "language": "ur",
+                    "value": "\u0631\u0648\u062c\u0631 \u0641\u06cc\u0688\u0631\u0631"
+                },
+                "vi": {
+                    "language": "vi",
+                    "value": "Roger Federer"
+                },
+                "yo": {
+                    "language": "yo",
+                    "value": "Roger Federer"
+                },
+                "zh": {
+                    "language": "zh",
+                    "value": "\u7f57\u6770\u00b7\u8d39\u5fb7\u52d2"
+                },
+                "de-ch": {
+                    "language": "de-ch",
+                    "value": "Roger Federer"
+                },
+                "zh-min-nan": {
+                    "language": "zh-min-nan",
+                    "value": "Roger Federer"
+                },
+                "zh-yue": {
+                    "language": "zh-yue",
+                    "value": "\u8cbb\u9054\u62ff"
+                },
+                "yue": {
+                    "language": "yue",
+                    "value": "\u8cbb\u9054\u62ff"
+                },
+                "sw": {
+                    "language": "sw",
+                    "value": "Roger Federer"
+                },
+                "be-x-old": {
+                    "language": "be-x-old",
+                    "value": "\u0420\u043e\u0434\u0436\u044d\u0440 \u0424\u044d\u0434\u044d\u0440\u044d\u0440"
+                },
+                "ku": {
+                    "language": "ku",
+                    "value": "Roger Federer"
+                },
+                "lb": {
+                    "language": "lb",
+                    "value": "Roger Federer"
+                },
+                "ace": {
+                    "language": "ace",
+                    "value": "Roger Federer"
+                },
+                "pms": {
+                    "language": "pms",
+                    "value": "Roger Federer"
+                },
+                "tw": {
+                    "language": "tw",
+                    "value": "Roger Federer"
+                },
+                "nds": {
+                    "language": "nds",
+                    "value": "Roger Federer"
+                },
+                "ie": {
+                    "language": "ie",
+                    "value": "Roger Federer"
+                },
+                "fo": {
+                    "language": "fo",
+                    "value": "Roger Federer"
+                },
+                "min": {
+                    "language": "min",
+                    "value": "Roger Federer"
+                },
+                "eml": {
+                    "language": "eml",
+                    "value": "Roger Federer"
+                },
+                "ang": {
+                    "language": "ang",
+                    "value": "Roger Federer"
+                },
+                "bcl": {
+                    "language": "bcl",
+                    "value": "Roger Federer"
+                },
+                "am": {
+                    "language": "am",
+                    "value": "\u122e\u1300\u122d \u134c\u12f4\u1228\u122d"
+                },
+                "gv": {
+                    "language": "gv",
+                    "value": "Roger Federer"
+                },
+                "wa": {
+                    "language": "wa",
+                    "value": "Roger Federer"
+                },
+                "uz": {
+                    "language": "uz",
+                    "value": "Roger Federer"
+                },
+                "ext": {
+                    "language": "ext",
+                    "value": "Roger Federer"
+                },
+                "ky": {
+                    "language": "ky",
+                    "value": "\u0420\u043e\u0434\u0436\u0435\u0440 \u0424\u0435\u0434\u0435\u0440\u0435\u0440"
+                },
+                "os": {
+                    "language": "os",
+                    "value": "\u0424\u0435\u0434\u0435\u0440\u0435\u0440, \u0420\u043e\u0434\u0436\u0435\u0440"
+                }
+            },
+            "descriptions": {
+                "en": {
+                    "language": "en",
+                    "value": "Swiss tennis player"
+                },
+                "it": {
+                    "language": "it",
+                    "value": "tennista svizzero"
+                },
+                "es": {
+                    "language": "es",
+                    "value": "jugador de tenis suizo"
+                },
+                "fr": {
+                    "language": "fr",
+                    "value": "joueur de tennis suisse"
+                },
+                "fi": {
+                    "language": "fi",
+                    "value": "sveitsil\u00e4inen tennispelaaja"
+                },
+                "de": {
+                    "language": "de",
+                    "value": "Schweizer Tennisspieler"
+                },
+                "ru": {
+                    "language": "ru",
+                    "value": "\u0448\u0432\u0435\u0439\u0446\u0430\u0440\u0441\u043a\u0438\u0439 \u0442\u0435\u043d\u043d\u0438\u0441\u0438\u0441\u0442"
+                },
+                "min": {
+                    "language": "min",
+                    "value": "patenis asa Swiss."
+                },
+                "id": {
+                    "language": "id",
+                    "value": "atlet tenis dari Swis"
+                },
+                "hu": {
+                    "language": "hu",
+                    "value": "sv\u00e1jci teniszez\u0151"
+                }
+            },
+            "claims": {
+                "p26": [
+                    {
+                        "id": "q1426$53EC49AB-9F46-4FD4-9AAE-C6342CAEDEE9",
+                        "mainsnak": {
+                            "snaktype": "value",
+                            "property": "p26",
+                            "datavalue": {
+                                "value": {
+                                    "entity-type": "item",
+                                    "numeric-id": 233306
+                                },
+                                "type": "wikibase-entityid"
+                            }
+                        },
+                        "type": "statement",
+                        "rank": "normal"
+                    }
+                ],
+                "p27": [
+                    {
+                        "id": "q1426$A2132D11-FBBD-44BE-8807-D792797A0F75",
+                        "mainsnak": {
+                            "snaktype": "value",
+                            "property": "p27",
+                            "datavalue": {
+                                "value": {
+                                    "entity-type": "item",
+                                    "numeric-id": 39
+                                },
+                                "type": "wikibase-entityid"
+                            }
+                        },
+                        "type": "statement",
+                        "rank": "normal"
+                    }
+                ],
+                "p107": [
+                    {
+                        "id": "q1426$D4523F92-5660-4882-BF5B-3ED269DC4635",
+                        "mainsnak": {
+                            "snaktype": "value",
+                            "property": "p107",
+                            "datavalue": {
+                                "value": {
+                                    "entity-type": "item",
+                                    "numeric-id": 215627
+                                },
+                                "type": "wikibase-entityid"
+                            }
+                        },
+                        "type": "statement",
+                        "rank": "normal",
+                        "references": [
+                            {
+                                "hash": "3afb53f7a764de1a362e7e808d13bef80da973cf",
+                                "snaks": {
+                                    "p143": [
+                                        {
+                                            "snaktype": "value",
+                                            "property": "p143",
+                                            "datavalue": {
+                                                "value": {
+                                                    "entity-type": "item",
+                                                    "numeric-id": 48183
+                                                },
+                                                "type": "wikibase-entityid"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "p21": [
+                    {
+                        "id": "q1426$44E12030-33B9-458D-9537-1663EEB8C50F",
+                        "mainsnak": {
+                            "snaktype": "value",
+                            "property": "p21",
+                            "datavalue": {
+                                "value": {
+                                    "entity-type": "item",
+                                    "numeric-id": 6581097
+                                },
+                                "type": "wikibase-entityid"
+                            }
+                        },
+                        "type": "statement",
+                        "rank": "normal",
+                        "references": [
+                            {
+                                "hash": "2dbca39f633f110e8d51ef31f4fd18435f455a21",
+                                "snaks": {
+                                    "p143": [
+                                        {
+                                            "snaktype": "value",
+                                            "property": "p143",
+                                            "datavalue": {
+                                                "value": {
+                                                    "entity-type": "item",
+                                                    "numeric-id": 54919
+                                                },
+                                                "type": "wikibase-entityid"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "p373": [
+                    {
+                        "id": "q1426$FBD297C5-4846-466C-9F9A-34C0AE288814",
+                        "mainsnak": {
+                            "snaktype": "value",
+                            "property": "p373",
+                            "datavalue": {
+                                "value": "Roger Federer",
+                                "type": "string"
+                            }
+                        },
+                        "type": "statement",
+                        "rank": "normal"
+                    }
+                ],
+                "p106": [
+                    {
+                        "id": "q1426$966835B3-B3B7-4B84-9E61-57EC95440DA5",
+                        "mainsnak": {
+                            "snaktype": "value",
+                            "property": "p106",
+                            "datavalue": {
+                                "value": {
+                                    "entity-type": "item",
+                                    "numeric-id": 10833314
+                                },
+                                "type": "wikibase-entityid"
+                            }
+                        },
+                        "type": "statement",
+                        "rank": "normal",
+                        "references": [
+                            {
+                                "hash": "d743729d6894070b2e2313f69ee4d53eea0b9569",
+                                "snaks": {
+                                    "p248": [
+                                        {
+                                            "snaktype": "value",
+                                            "property": "p248",
+                                            "datavalue": {
+                                                "value": {
+                                                    "entity-type": "item",
+                                                    "numeric-id": 13415851
+                                                },
+                                                "type": "wikibase-entityid"
+                                            }
+                                        }
+                                    ],
+                                    "p304": [
+                                        {
+                                            "snaktype": "value",
+                                            "property": "p304",
+                                            "datavalue": {
+                                                "value": "673",
+                                                "type": "string"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "p244": [
+                    {
+                        "id": "q1426$C3A83D89-AE7F-4F5E-8AB0-91A559F5B80A",
+                        "mainsnak": {
+                            "snaktype": "value",
+                            "property": "p244",
+                            "datavalue": {
+                                "value": "n2006023994",
+                                "type": "string"
+                            }
+                        },
+                        "type": "statement",
+                        "rank": "normal",
+                        "references": [
+                            {
+                                "hash": "1eb8093c002b1d9820c833d234a1b54c8e94187e",
+                                "snaks": {
+                                    "p143": [
+                                        {
+                                            "snaktype": "value",
+                                            "property": "p143",
+                                            "datavalue": {
+                                                "value": {
+                                                    "entity-type": "item",
+                                                    "numeric-id": 328
+                                                },
+                                                "type": "wikibase-entityid"
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "hash": "3afb53f7a764de1a362e7e808d13bef80da973cf",
+                                "snaks": {
+                                    "p143": [
+                                        {
+                                            "snaktype": "value",
+                                            "property": "p143",
+                                            "datavalue": {
+                                                "value": {
+                                                    "entity-type": "item",
+                                                    "numeric-id": 48183
+                                                },
+                                                "type": "wikibase-entityid"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "p214": [
+                    {
+                        "id": "q1426$DAA32B3B-FA41-4067-8D04-520003B80425",
+                        "mainsnak": {
+                            "snaktype": "value",
+                            "property": "p214",
+                            "datavalue": {
+                                "value": "78783058",
+                                "type": "string"
+                            }
+                        },
+                        "type": "statement",
+                        "rank": "normal",
+                        "references": [
+                            {
+                                "hash": "1eb8093c002b1d9820c833d234a1b54c8e94187e",
+                                "snaks": {
+                                    "p143": [
+                                        {
+                                            "snaktype": "value",
+                                            "property": "p143",
+                                            "datavalue": {
+                                                "value": {
+                                                    "entity-type": "item",
+                                                    "numeric-id": 328
+                                                },
+                                                "type": "wikibase-entityid"
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "hash": "3afb53f7a764de1a362e7e808d13bef80da973cf",
+                                "snaks": {
+                                    "p143": [
+                                        {
+                                            "snaktype": "value",
+                                            "property": "p143",
+                                            "datavalue": {
+                                                "value": {
+                                                    "entity-type": "item",
+                                                    "numeric-id": 48183
+                                                },
+                                                "type": "wikibase-entityid"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "p213": [
+                    {
+                        "id": "q1426$16C073B2-9F9E-4696-B660-6288EFED160F",
+                        "mainsnak": {
+                            "snaktype": "value",
+                            "property": "p213",
+                            "datavalue": {
+                                "value": "0000 0000 7844 9693",
+                                "type": "string"
+                            }
+                        },
+                        "type": "statement",
+                        "rank": "normal",
+                        "references": [
+                            {
+                                "hash": "04351eb6d2f88622a20a2d9142c8673f73e6c647",
+                                "snaks": {
+                                    "p143": [
+                                        {
+                                            "snaktype": "value",
+                                            "property": "p143",
+                                            "datavalue": {
+                                                "value": {
+                                                    "entity-type": "item",
+                                                    "numeric-id": 423048
+                                                },
+                                                "type": "wikibase-entityid"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "p19": [
+                    {
+                        "id": "q1426$0C4A34A5-8D44-42CA-96DF-8834D46F1D0C",
+                        "mainsnak": {
+                            "snaktype": "value",
+                            "property": "p19",
+                            "datavalue": {
+                                "value": {
+                                    "entity-type": "item",
+                                    "numeric-id": 78
+                                },
+                                "type": "wikibase-entityid"
+                            }
+                        },
+                        "type": "statement",
+                        "rank": "normal",
+                        "references": [
+                            {
+                                "hash": "fa082d8032564cc5c536802301a5dd72a3f2f3ba",
+                                "snaks": {
+                                    "p248": [
+                                        {
+                                            "snaktype": "value",
+                                            "property": "p248",
+                                            "datavalue": {
+                                                "value": {
+                                                    "entity-type": "item",
+                                                    "numeric-id": 13415851
+                                                },
+                                                "type": "wikibase-entityid"
+                                            }
+                                        }
+                                    ],
+                                    "p304": [
+                                        {
+                                            "snaktype": "value",
+                                            "property": "p304",
+                                            "datavalue": {
+                                                "value": "674",
+                                                "type": "string"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "p227": [
+                    {
+                        "id": "q1426$B412F198-D7A5-44D3-AAF9-075AB54209B5",
+                        "mainsnak": {
+                            "snaktype": "value",
+                            "property": "p227",
+                            "datavalue": {
+                                "value": "129256560",
+                                "type": "string"
+                            }
+                        },
+                        "type": "statement",
+                        "rank": "normal",
+                        "references": [
+                            {
+                                "hash": "3afb53f7a764de1a362e7e808d13bef80da973cf",
+                                "snaks": {
+                                    "p143": [
+                                        {
+                                            "snaktype": "value",
+                                            "property": "p143",
+                                            "datavalue": {
+                                                "value": {
+                                                    "entity-type": "item",
+                                                    "numeric-id": 48183
+                                                },
+                                                "type": "wikibase-entityid"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "p345": [
+                    {
+                        "id": "q1426$55BC5359-301A-4B37-BB79-9E2BED9DD2D2",
+                        "mainsnak": {
+                            "snaktype": "value",
+                            "property": "p345",
+                            "datavalue": {
+                                "value": "nm1716574",
+                                "type": "string"
+                            }
+                        },
+                        "type": "statement",
+                        "rank": "normal",
+                        "references": [
+                            {
+                                "hash": "1eb8093c002b1d9820c833d234a1b54c8e94187e",
+                                "snaks": {
+                                    "p143": [
+                                        {
+                                            "snaktype": "value",
+                                            "property": "p143",
+                                            "datavalue": {
+                                                "value": {
+                                                    "entity-type": "item",
+                                                    "numeric-id": 328
+                                                },
+                                                "type": "wikibase-entityid"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "p536": [
+                    {
+                        "id": "q1426$AD9B9605-F42C-4EDD-A7E9-B07F499968C5",
+                        "mainsnak": {
+                            "snaktype": "value",
+                            "property": "p536",
+                            "datavalue": {
+                                "value": "F324",
+                                "type": "string"
+                            }
+                        },
+                        "type": "statement",
+                        "rank": "normal",
+                        "references": [
+                            {
+                                "hash": "959e2d91dd26b1f5f9814ee848a15dcd190900c6",
+                                "snaks": {
+                                    "p143": [
+                                        {
+                                            "snaktype": "value",
+                                            "property": "p143",
+                                            "datavalue": {
+                                                "value": {
+                                                    "entity-type": "item",
+                                                    "numeric-id": 8447
+                                                },
+                                                "type": "wikibase-entityid"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "p569": [
+                    {
+                        "id": "q1426$907c705e-452c-52f4-cfd8-74678c789a1b",
+                        "mainsnak": {
+                            "snaktype": "value",
+                            "property": "p569",
+                            "datavalue": {
+                                "value": {
+                                    "time": "+00000001981-08-08T00:00:00Z",
+                                    "timezone": 0,
+                                    "before": 0,
+                                    "after": 0,
+                                    "precision": 11,
+                                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                                },
+                                "type": "time"
+                            }
+                        },
+                        "type": "statement",
+                        "rank": "normal",
+                        "references": [
+                            {
+                                "hash": "fa082d8032564cc5c536802301a5dd72a3f2f3ba",
+                                "snaks": {
+                                    "p248": [
+                                        {
+                                            "snaktype": "value",
+                                            "property": "p248",
+                                            "datavalue": {
+                                                "value": {
+                                                    "entity-type": "item",
+                                                    "numeric-id": 13415851
+                                                },
+                                                "type": "wikibase-entityid"
+                                            }
+                                        }
+                                    ],
+                                    "p304": [
+                                        {
+                                            "snaktype": "value",
+                                            "property": "p304",
+                                            "datavalue": {
+                                                "value": "674",
+                                                "type": "string"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "p552": [
+                    {
+                        "id": "q1426$32679b96-46ae-7645-600d-840a6dd55f18",
+                        "mainsnak": {
+                            "snaktype": "value",
+                            "property": "p552",
+                            "datavalue": {
+                                "value": {
+                                    "entity-type": "item",
+                                    "numeric-id": 3039938
+                                },
+                                "type": "wikibase-entityid"
+                            }
+                        },
+                        "type": "statement",
+                        "rank": "normal",
+                        "references": [
+                            {
+                                "hash": "fa082d8032564cc5c536802301a5dd72a3f2f3ba",
+                                "snaks": {
+                                    "p248": [
+                                        {
+                                            "snaktype": "value",
+                                            "property": "p248",
+                                            "datavalue": {
+                                                "value": {
+                                                    "entity-type": "item",
+                                                    "numeric-id": 13415851
+                                                },
+                                                "type": "wikibase-entityid"
+                                            }
+                                        }
+                                    ],
+                                    "p304": [
+                                        {
+                                            "snaktype": "value",
+                                            "property": "p304",
+                                            "datavalue": {
+                                                "value": "674",
+                                                "type": "string"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "p555": [
+                    {
+                        "id": "q1426$efaa64a5-40a4-cc7e-bd87-62a16a7f83fb",
+                        "mainsnak": {
+                            "snaktype": "value",
+                            "property": "p555",
+                            "datavalue": {
+                                "value": "120-81",
+                                "type": "string"
+                            }
+                        },
+                        "type": "statement",
+                        "rank": "normal"
+                    }
+                ],
+                "p564": [
+                    {
+                        "id": "q1426$7316d8d0-424a-ce0c-67ab-0425ca58849b",
+                        "mainsnak": {
+                            "snaktype": "value",
+                            "property": "p564",
+                            "datavalue": {
+                                "value": "904-205",
+                                "type": "string"
+                            }
+                        },
+                        "type": "statement",
+                        "rank": "normal"
+                    }
+                ]
+            },
+            "sitelinks": {
+                "acewiki": {
+                    "site": "acewiki",
+                    "title": "Roger Federer"
+                },
+                "afwiki": {
+                    "site": "afwiki",
+                    "title": "Roger Federer"
+                },
+                "alswiki": {
+                    "site": "alswiki",
+                    "title": "Roger Federer"
+                },
+                "amwiki": {
+                    "site": "amwiki",
+                    "title": "\u122e\u1300\u122d \u134c\u12f4\u1228\u122d"
+                },
+                "angwiki": {
+                    "site": "angwiki",
+                    "title": "Roger Federer"
+                },
+                "anwiki": {
+                    "site": "anwiki",
+                    "title": "Roger Federer"
+                },
+                "arwiki": {
+                    "site": "arwiki",
+                    "title": "\u0631\u0648\u062c\u0631 \u0641\u064a\u062f\u0631\u064a\u0631"
+                },
+                "arzwiki": {
+                    "site": "arzwiki",
+                    "title": "\u0631\u0648\u062c\u0631 \u0641\u064a\u062f\u064a\u0631\u0627\u0631"
+                },
+                "astwiki": {
+                    "site": "astwiki",
+                    "title": "Roger Federer"
+                },
+                "azwiki": {
+                    "site": "azwiki",
+                    "title": "Roger Federer"
+                },
+                "barwiki": {
+                    "site": "barwiki",
+                    "title": "Roger Federer"
+                },
+                "bclwiki": {
+                    "site": "bclwiki",
+                    "title": "Roger Federer"
+                },
+                "be_x_oldwiki": {
+                    "site": "be_x_oldwiki",
+                    "title": "\u0420\u043e\u0434\u0436\u044d\u0440 \u0424\u044d\u0434\u044d\u0440\u044d\u0440"
+                },
+                "bewiki": {
+                    "site": "bewiki",
+                    "title": "\u0420\u043e\u0434\u0436\u044d\u0440 \u0424\u0435\u0434\u044d\u0440\u044d\u0440"
+                },
+                "bgwiki": {
+                    "site": "bgwiki",
+                    "title": "\u0420\u043e\u0434\u0436\u044a\u0440 \u0424\u0435\u0434\u0435\u0440\u0435\u0440"
+                },
+                "bnwiki": {
+                    "site": "bnwiki",
+                    "title": "\u09b0\u099c\u09be\u09b0 \u09ab\u09c7\u09a6\u09c7\u09b0\u09be\u09b0"
+                },
+                "brwiki": {
+                    "site": "brwiki",
+                    "title": "Roger Federer"
+                },
+                "bswiki": {
+                    "site": "bswiki",
+                    "title": "Roger Federer"
+                },
+                "bxrwiki": {
+                    "site": "bxrwiki",
+                    "title": "\u0420\u043e\u0434\u0436\u0435\u0440 \u0424\u0435\u0434\u0435\u0440\u0435\u0440"
+                },
+                "cawiki": {
+                    "site": "cawiki",
+                    "title": "Roger Federer"
+                },
+                "cebwiki": {
+                    "site": "cebwiki",
+                    "title": "Roger Federer"
+                },
+                "ckbwiki": {
+                    "site": "ckbwiki",
+                    "title": "\u0695\u06c6\u062c\u06d5\u0631 \u0641\u06ce\u062f\u06ce\u0631\u06ce\u0631"
+                },
+                "cswiki": {
+                    "site": "cswiki",
+                    "title": "Roger Federer"
+                },
+                "cvwiki": {
+                    "site": "cvwiki",
+                    "title": "\u0420\u043e\u0434\u0436\u0435\u0440 \u0424\u0435\u0434\u0435\u0440\u0435\u0440"
+                },
+                "cywiki": {
+                    "site": "cywiki",
+                    "title": "Roger Federer"
+                },
+                "dawiki": {
+                    "site": "dawiki",
+                    "title": "Roger Federer"
+                },
+                "dewiki": {
+                    "site": "dewiki",
+                    "title": "Roger Federer"
+                },
+                "dsbwiki": {
+                    "site": "dsbwiki",
+                    "title": "Roger Federer"
+                },
+                "elwiki": {
+                    "site": "elwiki",
+                    "title": "\u03a1\u03cc\u03c4\u03b6\u03b5\u03c1 \u03a6\u03ad\u03bd\u03c4\u03b5\u03c1\u03b5\u03c1"
+                },
+                "emlwiki": {
+                    "site": "emlwiki",
+                    "title": "Roger Federer"
+                },
+                "enwiki": {
+                    "site": "enwiki",
+                    "title": "Roger Federer"
+                },
+                "eowiki": {
+                    "site": "eowiki",
+                    "title": "Roger Federer"
+                },
+                "eswiki": {
+                    "site": "eswiki",
+                    "title": "Roger Federer"
+                },
+                "etwiki": {
+                    "site": "etwiki",
+                    "title": "Roger Federer"
+                },
+                "euwiki": {
+                    "site": "euwiki",
+                    "title": "Roger Federer"
+                },
+                "extwiki": {
+                    "site": "extwiki",
+                    "title": "Roger Federer"
+                },
+                "fawiki": {
+                    "site": "fawiki",
+                    "title": "\u0631\u0627\u062c\u0631 \u0641\u062f\u0631\u0631"
+                },
+                "fiwiki": {
+                    "site": "fiwiki",
+                    "title": "Roger Federer"
+                },
+                "fowiki": {
+                    "site": "fowiki",
+                    "title": "Roger Federer"
+                },
+                "frwiki": {
+                    "site": "frwiki",
+                    "title": "Roger Federer"
+                },
+                "fywiki": {
+                    "site": "fywiki",
+                    "title": "Roger Federer"
+                },
+                "gawiki": {
+                    "site": "gawiki",
+                    "title": "Roger Federer"
+                },
+                "glwiki": {
+                    "site": "glwiki",
+                    "title": "Roger Federer"
+                },
+                "guwiki": {
+                    "site": "guwiki",
+                    "title": "\u0ab0\u0acb\u0a9c\u0ab0 \u0aab\u0ac7\u0aa1\u0ab0\u0ab0"
+                },
+                "gvwiki": {
+                    "site": "gvwiki",
+                    "title": "Roger Federer"
+                },
+                "hewiki": {
+                    "site": "hewiki",
+                    "title": "\u05e8\u05d5\u05d2'\u05e8 \u05e4\u05d3\u05e8\u05e8"
+                },
+                "hiwiki": {
+                    "site": "hiwiki",
+                    "title": "\u0930\u094b\u091c\u0930 \u092b\u093c\u0947\u0921\u0930\u0930"
+                },
+                "hrwiki": {
+                    "site": "hrwiki",
+                    "title": "Roger Federer"
+                },
+                "hsbwiki": {
+                    "site": "hsbwiki",
+                    "title": "Roger Federer"
+                },
+                "huwiki": {
+                    "site": "huwiki",
+                    "title": "Roger Federer"
+                },
+                "hywiki": {
+                    "site": "hywiki",
+                    "title": "\u054c\u0578\u057b\u0565\u0580 \u0556\u0565\u0564\u0565\u0580\u0565\u0580"
+                },
+                "idwiki": {
+                    "site": "idwiki",
+                    "title": "Roger Federer"
+                },
+                "iewiki": {
+                    "site": "iewiki",
+                    "title": "Roger Federer"
+                },
+                "iowiki": {
+                    "site": "iowiki",
+                    "title": "Roger Federer"
+                },
+                "iswiki": {
+                    "site": "iswiki",
+                    "title": "Roger Federer"
+                },
+                "itwiki": {
+                    "site": "itwiki",
+                    "title": "Roger Federer"
+                },
+                "jawiki": {
+                    "site": "jawiki",
+                    "title": "\u30ed\u30b8\u30e3\u30fc\u30fb\u30d5\u30a7\u30c7\u30e9\u30fc"
+                },
+                "jvwiki": {
+                    "site": "jvwiki",
+                    "title": "Roger Federer"
+                },
+                "kabwiki": {
+                    "site": "kabwiki",
+                    "title": "Ro\u011fer Federer"
+                },
+                "kawiki": {
+                    "site": "kawiki",
+                    "title": "\u10e0\u10dd\u10ef\u10d4\u10e0 \u10e4\u10d4\u10d3\u10d4\u10e0\u10d4\u10e0\u10d8"
+                },
+                "kkwiki": {
+                    "site": "kkwiki",
+                    "title": "\u0420\u043e\u0434\u0436\u0435\u0440 \u0424\u0435\u0434\u0435\u0440\u0435\u0440"
+                },
+                "knwiki": {
+                    "site": "knwiki",
+                    "title": "\u0cb0\u0ccb\u0c9c\u0cb0\u0ccd \u0cab\u0cc6\u0ca1\u0cb0\u0cb0\u0ccd"
+                },
+                "kowiki": {
+                    "site": "kowiki",
+                    "title": "\ub85c\uc800 \ud398\ub354\ub7ec"
+                },
+                "kshwiki": {
+                    "site": "kshwiki",
+                    "title": "Roger Federer"
+                },
+                "kuwiki": {
+                    "site": "kuwiki",
+                    "title": "Roger Federer"
+                },
+                "kywiki": {
+                    "site": "kywiki",
+                    "title": "\u0420\u043e\u0434\u0436\u0435\u0440 \u0424\u0435\u0434\u0435\u0440\u0435\u0440"
+                },
+                "lawiki": {
+                    "site": "lawiki",
+                    "title": "Rogerius Federer"
+                },
+                "lbwiki": {
+                    "site": "lbwiki",
+                    "title": "Roger Federer"
+                },
+                "ltwiki": {
+                    "site": "ltwiki",
+                    "title": "Roger Federer"
+                },
+                "lvwiki": {
+                    "site": "lvwiki",
+                    "title": "Rod\u017eers Federers"
+                },
+                "mgwiki": {
+                    "site": "mgwiki",
+                    "title": "Roger Federer"
+                },
+                "minwiki": {
+                    "site": "minwiki",
+                    "title": "Roger Federer"
+                },
+                "mkwiki": {
+                    "site": "mkwiki",
+                    "title": "\u0420\u043e\u045f\u0435\u0440 \u0424\u0435\u0434\u0435\u0440\u0435\u0440"
+                },
+                "mlwiki": {
+                    "site": "mlwiki",
+                    "title": "\u0d31\u0d4b\u0d1c\u0d7c \u0d2b\u0d46\u0d21\u0d31\u0d7c"
+                },
+                "mnwiki": {
+                    "site": "mnwiki",
+                    "title": "\u0420\u043e\u0436\u0435\u0440 \u0424\u0435\u0434\u0435\u0440\u0435\u0440"
+                },
+                "mrwiki": {
+                    "site": "mrwiki",
+                    "title": "\u0930\u0949\u091c\u0930 \u092b\u0947\u0921\u0930\u0930"
+                },
+                "mswiki": {
+                    "site": "mswiki",
+                    "title": "Roger Federer"
+                },
+                "mywiki": {
+                    "site": "mywiki",
+                    "title": "\u101b\u1031\u102c\u103a\u1002\u103b\u102c \u1016\u1000\u103a\u1012\u101b\u102c"
+                },
+                "ndswiki": {
+                    "site": "ndswiki",
+                    "title": "Roger Federer"
+                },
+                "nlwiki": {
+                    "site": "nlwiki",
+                    "title": "Roger Federer"
+                },
+                "nnwiki": {
+                    "site": "nnwiki",
+                    "title": "Roger Federer"
+                },
+                "nowiki": {
+                    "site": "nowiki",
+                    "title": "Roger Federer"
+                },
+                "ocwiki": {
+                    "site": "ocwiki",
+                    "title": "Roger Federer"
+                },
+                "orwiki": {
+                    "site": "orwiki",
+                    "title": "\u0b30\u0b4b\u0b1c\u0b30 \u0b2b\u0b47\u0b21\u0b47\u0b30\u0b30\u0b4d"
+                },
+                "oswiki": {
+                    "site": "oswiki",
+                    "title": "\u0424\u0435\u0434\u0435\u0440\u0435\u0440, \u0420\u043e\u0434\u0436\u0435\u0440"
+                },
+                "pamwiki": {
+                    "site": "pamwiki",
+                    "title": "Roger Federer"
+                },
+                "plwiki": {
+                    "site": "plwiki",
+                    "title": "Roger Federer"
+                },
+                "pmswiki": {
+                    "site": "pmswiki",
+                    "title": "Roger Federer"
+                },
+                "ptwiki": {
+                    "site": "ptwiki",
+                    "title": "Roger Federer"
+                },
+                "quwiki": {
+                    "site": "quwiki",
+                    "title": "Roger Federer"
+                },
+                "rmwiki": {
+                    "site": "rmwiki",
+                    "title": "Roger Federer"
+                },
+                "rowiki": {
+                    "site": "rowiki",
+                    "title": "Roger Federer"
+                },
+                "ruwiki": {
+                    "site": "ruwiki",
+                    "title": "\u0424\u0435\u0434\u0435\u0440\u0435\u0440, \u0420\u043e\u0434\u0436\u0435\u0440"
+                },
+                "scnwiki": {
+                    "site": "scnwiki",
+                    "title": "Roger Federer"
+                },
+                "scowiki": {
+                    "site": "scowiki",
+                    "title": "Roger Federer"
+                },
+                "shwiki": {
+                    "site": "shwiki",
+                    "title": "Roger Federer"
+                },
+                "simplewiki": {
+                    "site": "simplewiki",
+                    "title": "Roger Federer"
+                },
+                "siwiki": {
+                    "site": "siwiki",
+                    "title": "\u0dbb\u0ddc\u0da2\u0dbb\u0dca \u0dc6\u0dd9\u0da9\u0dbb\u0dbb\u0dca"
+                },
+                "skwiki": {
+                    "site": "skwiki",
+                    "title": "Roger Federer"
+                },
+                "slwiki": {
+                    "site": "slwiki",
+                    "title": "Roger Federer"
+                },
+                "sqwiki": {
+                    "site": "sqwiki",
+                    "title": "Roger Federer"
+                },
+                "srwiki": {
+                    "site": "srwiki",
+                    "title": "\u0420\u043e\u045f\u0435\u0440 \u0424\u0435\u0434\u0435\u0440\u0435\u0440"
+                },
+                "svwiki": {
+                    "site": "svwiki",
+                    "title": "Roger Federer"
+                },
+                "swwiki": {
+                    "site": "swwiki",
+                    "title": "Roger Federer"
+                },
+                "tawiki": {
+                    "site": "tawiki",
+                    "title": "\u0bb0\u0bca\u0b9c\u0bb0\u0bcd \u0baa\u0bc6\u0b9f\u0bb0\u0bb0\u0bcd"
+                },
+                "tewiki": {
+                    "site": "tewiki",
+                    "title": "\u0c30\u0c4b\u0c1c\u0c30\u0c4d \u0c2b\u0c46\u0c21\u0c30\u0c30\u0c4d"
+                },
+                "thwiki": {
+                    "site": "thwiki",
+                    "title": "\u0e42\u0e23\u0e40\u0e08\u0e2d\u0e23\u0e4c \u0e40\u0e1f\u0e40\u0e14\u0e2d\u0e40\u0e23\u0e2d\u0e23\u0e4c"
+                },
+                "tkwiki": {
+                    "site": "tkwiki",
+                    "title": "Rojer Federer"
+                },
+                "tlwiki": {
+                    "site": "tlwiki",
+                    "title": "Roger Federer"
+                },
+                "trwiki": {
+                    "site": "trwiki",
+                    "title": "Roger Federer"
+                },
+                "twwiki": {
+                    "site": "twwiki",
+                    "title": "Roger Federer"
+                },
+                "ukwiki": {
+                    "site": "ukwiki",
+                    "title": "\u0420\u043e\u0434\u0436\u0435\u0440 \u0424\u0435\u0434\u0435\u0440\u0435\u0440"
+                },
+                "urwiki": {
+                    "site": "urwiki",
+                    "title": "\u0631\u0648\u062c\u0631 \u0641\u06cc\u0688\u0631\u0631"
+                },
+                "uzwiki": {
+                    "site": "uzwiki",
+                    "title": "Roger Federer"
+                },
+                "viwiki": {
+                    "site": "viwiki",
+                    "title": "Roger Federer"
+                },
+                "wawiki": {
+                    "site": "wawiki",
+                    "title": "Roger Federer"
+                },
+                "yowiki": {
+                    "site": "yowiki",
+                    "title": "Roger Federer"
+                },
+                "zh_min_nanwiki": {
+                    "site": "zh_min_nanwiki",
+                    "title": "Roger Federer"
+                },
+                "zh_yuewiki": {
+                    "site": "zh_yuewiki",
+                    "title": "\u8cbb\u9054\u62ff"
+                },
+                "zhwiki": {
+                    "site": "zhwiki",
+                    "title": "\u7f57\u6770\u00b7\u8d39\u5fb7\u52d2"
+                }
+            }
+        }
+    },
+    "success": 1
+}

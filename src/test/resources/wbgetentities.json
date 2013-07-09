@@ -1,0 +1,864 @@
+{
+    "entities": {
+        "q4115189": {
+            "pageid": 4246474,
+            "ns": 0,
+            "title": "Q4115189",
+            "lastrevid": 36805009,
+            "modified": "2013-05-07T00:59:30Z",
+            "id": "q4115189",
+            "type": "item",
+            "aliases": {
+                "en": [
+                    {
+                        "language": "en",
+                        "value": "Live Test Page"
+                    },
+                    {
+                        "language": "en",
+                        "value": "Sandbox"
+                    },
+                    {
+                        "language": "en",
+                        "value": "Playground"
+                    }
+                ],
+                "fr": [
+
+                ],
+                "pt-br": [
+                    {
+                        "language": "pt-br",
+                        "value": "item para testes"
+                    },
+                    {
+                        "language": "pt-br",
+                        "value": "teste"
+                    },
+                    {
+                        "language": "pt-br",
+                        "value": "testes"
+                    },
+                    {
+                        "language": "pt-br",
+                        "value": "test"
+                    },
+                    {
+                        "language": "pt-br",
+                        "value": "p\u00e1gina de testes"
+                    }
+                ],
+                "de": [
+                    {
+                        "language": "de",
+                        "value": "Spielewiese"
+                    },
+                    {
+                        "language": "de",
+                        "value": "Sandbox"
+                    },
+                    {
+                        "language": "de",
+                        "value": "Trollwiese"
+                    },
+                    {
+                        "language": "de",
+                        "value": "Bestm\u00f6glicher Aufenthaltsort f\u00fcr Vandalen"
+                    }
+                ],
+                "ru": [
+                    {
+                        "language": "ru",
+                        "value": "\u0442\u0435\u0441\u0442"
+                    },
+                    {
+                        "language": "ru",
+                        "value": "\u0442\u0435\u0441\u04422"
+                    }
+                ],
+                "ja": [
+                    {
+                        "language": "ja",
+                        "value": "Sandbox"
+                    },
+                    {
+                        "language": "ja",
+                        "value": "\u30b5\u30f3\u30c9\u30dc\u30c3\u30af\u30b9"
+                    },
+                    {
+                        "language": "ja",
+                        "value": "\u7df4\u7fd2\u7528\u30da\u30fc\u30b8"
+                    },
+                    {
+                        "language": "ja",
+                        "value": "\u7df4\u7fd2\u7528\u9805\u76ee"
+                    }
+                ]
+            },
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "Wikidata Sandbox"
+                },
+                "it": {
+                    "language": "it",
+                    "value": "Pagina di prova di Wikidata"
+                },
+                "cs": {
+                    "language": "cs",
+                    "value": "Wikidata p\u00edskovi\u0161t\u011b"
+                },
+                "fr": {
+                    "language": "fr",
+                    "value": "Bac \u00e0 sable"
+                },
+                "dsb": {
+                    "language": "dsb",
+                    "value": "Grajkani\u0161\u0107o Wikidata"
+                },
+                "gl": {
+                    "language": "gl",
+                    "value": "Zona de probas do Wikidata"
+                },
+                "de": {
+                    "language": "de",
+                    "value": "Wikidata-Spielwiese"
+                },
+                "ja": {
+                    "language": "ja",
+                    "value": "\u30a6\u30a3\u30ad\u30c7\u30fc\u30bf\u30fb\u30b5\u30f3\u30c9\u30dc\u30c3\u30af\u30b9"
+                },
+                "nl": {
+                    "language": "nl",
+                    "value": "Wikidata zandbak"
+                },
+                "nn": {
+                    "language": "nn",
+                    "value": "Wikidata-sandkasse"
+                },
+                "es": {
+                    "language": "es",
+                    "value": "Zona de pruebas de Wikidata"
+                },
+                "zh": {
+                    "language": "zh",
+                    "value": "\u7ef4\u57fa\u6570\u636e\u6d4b\u8bd5\u6c99\u76d2"
+                },
+                "fa": {
+                    "language": "fa",
+                    "value": "\u0635\u0641\u062d\u0647\u0654 \u062a\u0645\u0631\u06cc\u0646 \u0648\u06cc\u06a9\u06cc \u062f\u0627\u062f\u0647"
+                },
+                "ko": {
+                    "language": "ko",
+                    "value": "\uc704\ud0a4\ub370\uc774\ud130 \uc5f0\uc2b5\uc7a5"
+                },
+                "pt-br": {
+                    "language": "pt-br",
+                    "value": "P\u00e1gina de testes do projeto Wikidata"
+                },
+                "pt": {
+                    "language": "pt",
+                    "value": "P\u00e1gina de testes do projeto Wikidata"
+                },
+                "en-gb": {
+                    "language": "en-gb",
+                    "value": "Wikidata Sandbox"
+                },
+                "simple": {
+                    "language": "simple",
+                    "value": "Wikidata Sandbox"
+                },
+                "ru": {
+                    "language": "ru",
+                    "value": "\u0412\u0438\u043a\u0438\u0434\u0430\u043d\u043d\u044b\u0435:\u041f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0430"
+                },
+                "de-at": {
+                    "language": "de-at",
+                    "value": "Sandbox"
+                },
+                "en-ca": {
+                    "language": "en-ca",
+                    "value": "Wikidata Sandbox"
+                },
+                "zh-hant": {
+                    "language": "zh-hant",
+                    "value": "\u7dad\u57fa\u6578\u64da\u6c99\u76d2"
+                },
+                "sk": {
+                    "language": "sk",
+                    "value": "Wiki\u00fadaje pieskovisko"
+                },
+                "ka": {
+                    "language": "ka",
+                    "value": "\u10d5\u10d8\u10d9\u10d8\u10db\u10dd\u10dc\u10d0\u10ea\u10d4\u10db\u10d4\u10d1\u10d8\u10e1 \u10e1\u10d0\u10d5\u10d0\u10e0\u10ef\u10d8\u10e8\u10dd"
+                },
+                "da": {
+                    "language": "da",
+                    "value": "Wikidata Sandbox"
+                },
+                "zh-tw": {
+                    "language": "zh-tw",
+                    "value": "\u7dad\u57fa\u6578\u64da\u6c99\u76d2"
+                },
+                "el": {
+                    "language": "el",
+                    "value": "\u03a0\u03c1\u03cc\u03c7\u03b5\u03b9\u03c1\u03bf \u03c4\u03c9\u03bd Wikidata"
+                }
+            },
+            "descriptions": {
+                "en": {
+                    "language": "en",
+                    "value": "This serves as a sandbox for live testing features. Please be gentle with it. Feel free to edit anything on this page, though! For testing links, try adding ones to userpages."
+                },
+                "cs": {
+                    "language": "cs",
+                    "value": "Pou\u017eijte tuto str\u00e1nku pro sv\u00e9 testy"
+                },
+                "dsb": {
+                    "language": "dsb",
+                    "value": "Wu\u017eyj to\u015b ten bok za swoje testy"
+                },
+                "nl": {
+                    "language": "nl",
+                    "value": "Dit Wikidata item mag gebruikt worden om editen op Wikidata te oefenen. Gebruik Gebruikerspaginas om \"Interwiki links\" / \"Lijst met pagina's gekoppeld aan dit item\" te testen"
+                },
+                "fr": {
+                    "language": "fr",
+                    "value": "Cela sert de bac \u00e0 sable pour des test de fonctionnalit\u00e9s en direct. S'il vous pla\u00eet soyez doux avec lui. N'h\u00e9sitez pas \u00e0 modifier n'importe quoi sur cette page ! Pour tester les liens, essayez d'ajouter celles des pages utilisateurs."
+                },
+                "es": {
+                    "language": "es",
+                    "value": "Este elemento en Wikidata sirve para realizar pruebas."
+                },
+                "zh": {
+                    "language": "zh",
+                    "value": "\u7ef4\u57fa\u6570\u636e\u6d4b\u8bd5\u6c99\u76d2\uff0c\u8bf7\u6ce8\u610f\u4e0d\u8981\u79fb\u9664en\u6570\u636e\u9879"
+                },
+                "fa": {
+                    "language": "fa",
+                    "value": "\u0627\u06cc\u0646 \u0635\u0641\u062d\u0647 \u0627\u06cc \u0627\u0633\u062a \u0628\u0631\u0627\u06cc \u062a\u0645\u0631\u06cc\u0646 \u0648\u06cc\u0698\u06af\u06cc \u0647\u0627\u06cc \u0648\u06cc\u06a9\u06cc \u062f\u0627\u062f\u0647. \u0647\u0631 \u0648\u06cc\u0631\u0627\u06cc\u0634\u06cc \u06a9\u0647 \u0645\u06cc \u062e\u0648\u0627\u0647\u06cc\u062f \u0645\u06cc \u062a\u0648\u0627\u0646\u06cc\u062f \u062f\u0631 \u0627\u06cc\u0646 \u0635\u0641\u062d\u0647 \u0628\u06a9\u0646\u06cc\u062f."
+                },
+                "ko": {
+                    "language": "ko",
+                    "value": "\uc774\uacf3\uc740 \uc790\uc720\ub86d\uac8c \uc704\ud0a4\ub370\uc774\ud130 \uae30\ub2a5\uc744 \uc2dc\ud5d8\ud560 \uc218 \uc788\ub294 \uc5f0\uc2b5\uc7a5\uc785\ub2c8\ub2e4."
+                },
+                "gl": {
+                    "language": "gl",
+                    "value": "Este elemento do Wikidata serve para realizar probas."
+                },
+                "en-gb": {
+                    "language": "en-gb",
+                    "value": "This serves as a sandbox for live testing features. Please be gentle with it. Feel free to edit anything on this page, though! For testing links, try adding ones to userpages."
+                },
+                "simple": {
+                    "language": "simple",
+                    "value": "This is a sandbox for testing changes to items. Please be gentle with it. Feel free to change anything on this page! For testing links, try adding ones to userpages."
+                },
+                "de": {
+                    "language": "de",
+                    "value": "Eine Spielwiese zum testen von Funktionen. F\u00fchle dich frei alles m\u00f6gliche zu ver\u00e4ndern. F\u00fcge aber bitte nur Links zu Benutzerseiten hinzu."
+                },
+                "ru": {
+                    "language": "ru",
+                    "value": "\u0437\u0434\u0435\u0441\u044c \u043c\u043e\u0436\u043d\u043e \u0434\u0435\u043b\u0430\u0442\u044c \u0432\u0441\u0451, \u0447\u0442\u043e \u0443\u0433\u043e\u0434\u043d\u043e #Q220"
+                },
+                "de-at": {
+                    "language": "de-at",
+                    "value": "Eine Spielwiese zum testen von Funktionen. F\u00fchle dich frei alles m\u00f6gliche zu ver\u00e4ndern. F\u00fcge aber bitte nur Links zu Benutzerseiten hinzu."
+                },
+                "en-ca": {
+                    "language": "en-ca",
+                    "value": "This serves as a sandbox for live testing features. Please be gentle with it. Feel free to edit anything on this page, though! For testing links, try adding ones to userpages."
+                },
+                "it": {
+                    "language": "it",
+                    "value": "test"
+                },
+                "ja": {
+                    "language": "ja",
+                    "value": "\u3053\u306e\u9805\u76ee\u306f\u30c6\u30b9\u30c8\u7528\u30b5\u30f3\u30c9\u30dc\u30c3\u30af\u30b9\u3067\u3059\u3002\u3053\u306e\u30da\u30fc\u30b8\u3067\u69d8\u3005\u306a\u7de8\u96c6\u3092\u8a66\u3059\u3053\u3068\u304c\u3067\u304d\u307e\u3059\u3002\u4f46\u3057\u4e01\u5be7\u306b\u6271\u3063\u3066\u4e0b\u3055\u3044\u3002\u30ea\u30f3\u30af\u306e\u30c6\u30b9\u30c8\u6642\u306f\u5229\u7528\u8005\u30da\u30fc\u30b8\u3078\u306e\u30ea\u30f3\u30af\u3092\u8ffd\u52a0\u3057\u3066\u4e0b\u3055\u3044\u3002"
+                },
+                "pt": {
+                    "language": "pt",
+                    "value": "teste"
+                },
+                "zh-hant": {
+                    "language": "zh-hant",
+                    "value": "\u4f5c\u70ba\u6c99\u76d2\u4ee5\u4f9b\u6e2c\u8a66\u529f\u80fd\uff0c\u8acb\u6eab\u67d4\u5730\u5c0d\u5f85\u5b83\u3002\u4f60\u53ef\u4ee5\u96a8\u610f\u7de8\u8f2f\u4efb\u4f55\u5167\u5bb9\u3002\u5982\u679c\u8981\u6e2c\u8a66\u9023\u7d50\uff0c\u53ef\u4ee5\u589e\u52a0\u4e00\u500b\u524d\u5f80\u7528\u6236\u9801\u7684\u9023\u7d50\u3002"
+                },
+                "zh-tw": {
+                    "language": "zh-tw",
+                    "value": "\u4f5c\u70ba\u6c99\u76d2\u4ee5\u4f9b\u6e2c\u8a66\u529f\u80fd\uff0c\u8acb\u6eab\u67d4\u5730\u5c0d\u5f85\u5b83\u3002\u4f60\u53ef\u4ee5\u96a8\u610f\u7de8\u8f2f\u4efb\u4f55\u5167\u5bb9\u3002\u5982\u679c\u8981\u6e2c\u8a66\u9023\u7d50\uff0c\u53ef\u4ee5\u589e\u52a0\u4e00\u500b\u524d\u5f80\u7528\u6236\u9801\u7684\u9023\u7d50\u3002"
+                },
+                "el": {
+                    "language": "el",
+                    "value": "\u03c3\u03b5\u03bb\u03af\u03b4\u03b1 \u03b4\u03bf\u03ba\u03b9\u03bc\u03ce\u03bd \u03ba\u03b1\u03b9 \u03c0\u03b5\u03b9\u03c1\u03b1\u03bc\u03b1\u03c4\u03b9\u03c3\u03bc\u03ce\u03bd \u03c4\u03c9\u03bd Wikidata \u03c0\u03bf\u03c5 \u03cc\u03bb\u03bf\u03b9 \u03bc\u03c0\u03bf\u03c1\u03bf\u03cd\u03bd \u03bd\u03b1 \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03b9\u03ae\u03c3\u03bf\u03c5\u03bd"
+                }
+            },
+            "claims": {
+                "p107": [
+                    {
+                        "id": "q4115189$e910921d-40f1-0e88-d37b-aad8012a42c9",
+                        "mainsnak": {
+                            "snaktype": "value",
+                            "property": "p107",
+                            "datavalue": {
+                                "value": {
+                                    "entity-type": "item",
+                                    "numeric-id": 3938
+                                },
+                                "type": "wikibase-entityid"
+                            }
+                        },
+                        "type": "statement",
+                        "rank": "normal",
+                        "references": [
+                            {
+                                "hash": "e6ae2c93b6abc4202b13afb9ee2e18048b78a0a3",
+                                "snaks": {
+                                    "p143": [
+                                        {
+                                            "snaktype": "value",
+                                            "property": "p143",
+                                            "datavalue": {
+                                                "value": {
+                                                    "entity-type": "item",
+                                                    "numeric-id": 11920
+                                                },
+                                                "type": "wikibase-entityid"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "p393": [
+                    {
+                        "id": "q4115189$f5f4d548-4f3b-3bfa-b608-64e736da6ae4",
+                        "mainsnak": {
+                            "snaktype": "value",
+                            "property": "p393",
+                            "datavalue": {
+                                "value": "1-sv",
+                                "type": "string"
+                            }
+                        },
+                        "qualifiers": {
+                            "p212": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "p212",
+                                    "datavalue": {
+                                        "value": "978-91-64202-96-3",
+                                        "type": "string"
+                                    }
+                                },
+                                {
+                                    "snaktype": "value",
+                                    "property": "p212",
+                                    "datavalue": {
+                                        "value": "978-91-64221-82-7",
+                                        "type": "string"
+                                    }
+                                }
+                            ],
+                            "p364": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "p364",
+                                    "datavalue": {
+                                        "value": {
+                                            "entity-type": "item",
+                                            "numeric-id": 298714
+                                        },
+                                        "type": "wikibase-entityid"
+                                    }
+                                }
+                            ],
+                            "p291": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "p291",
+                                    "datavalue": {
+                                        "value": {
+                                            "entity-type": "item",
+                                            "numeric-id": 1754
+                                        },
+                                        "type": "wikibase-entityid"
+                                    }
+                                }
+                            ],
+                            "p123": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "p123",
+                                    "datavalue": {
+                                        "value": {
+                                            "entity-type": "item",
+                                            "numeric-id": 1807121
+                                        },
+                                        "type": "wikibase-entityid"
+                                    }
+                                }
+                            ],
+                            "p357": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "p357",
+                                    "datavalue": {
+                                        "value": "Hundra\u00e5ringen som klev ut genom f\u00f6nstret och f\u00f6rsvann",
+                                        "type": "string"
+                                    }
+                                }
+                            ]
+                        },
+                        "type": "statement",
+                        "rank": "normal"
+                    },
+                    {
+                        "id": "q4115189$346da16d-4308-12da-0cc0-f8a738241043",
+                        "mainsnak": {
+                            "snaktype": "value",
+                            "property": "p393",
+                            "datavalue": {
+                                "value": "1-it",
+                                "type": "string"
+                            }
+                        },
+                        "qualifiers": {
+                            "p212": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "p212",
+                                    "datavalue": {
+                                        "value": "978-8845266522",
+                                        "type": "string"
+                                    }
+                                }
+                            ],
+                            "p291": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "p291",
+                                    "datavalue": {
+                                        "value": {
+                                            "entity-type": "item",
+                                            "numeric-id": 1022976
+                                        },
+                                        "type": "wikibase-entityid"
+                                    }
+                                }
+                            ],
+                            "p123": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "p123",
+                                    "datavalue": {
+                                        "value": {
+                                            "entity-type": "item",
+                                            "numeric-id": 1052458
+                                        },
+                                        "type": "wikibase-entityid"
+                                    }
+                                }
+                            ],
+                            "p243": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "p243",
+                                    "datavalue": {
+                                        "value": "778700458",
+                                        "type": "string"
+                                    }
+                                }
+                            ],
+                            "p357": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "p357",
+                                    "datavalue": {
+                                        "value": "Il centenario che salt\u00f2 dalla finestra e scomparve",
+                                        "type": "string"
+                                    }
+                                }
+                            ],
+                            "p407": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "p407",
+                                    "datavalue": {
+                                        "value": {
+                                            "entity-type": "item",
+                                            "numeric-id": 652
+                                        },
+                                        "type": "wikibase-entityid"
+                                    }
+                                }
+                            ]
+                        },
+                        "type": "statement",
+                        "rank": "normal"
+                    },
+                    {
+                        "id": "q4115189$29a25f22-4aa3-2f7e-4949-95a9218e193e",
+                        "mainsnak": {
+                            "snaktype": "value",
+                            "property": "p393",
+                            "datavalue": {
+                                "value": "1-zh",
+                                "type": "string"
+                            }
+                        },
+                        "qualifiers": {
+                            "p392": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "p392",
+                                    "datavalue": {
+                                        "value": "\u767e\u6b72\u8001\u4eba\u8e7a\u5bb6\u53bb /Bai sui lao ren qiao jia qu",
+                                        "type": "string"
+                                    }
+                                }
+                            ],
+                            "p243": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "p243",
+                                    "datavalue": {
+                                        "value": "796945630",
+                                        "type": "string"
+                                    }
+                                }
+                            ],
+                            "p212": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "p212",
+                                    "datavalue": {
+                                        "value": "978-95-73328-95-7",
+                                        "type": "string"
+                                    }
+                                }
+                            ],
+                            "p407": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "p407",
+                                    "datavalue": {
+                                        "value": {
+                                            "entity-type": "item",
+                                            "numeric-id": 7850
+                                        },
+                                        "type": "wikibase-entityid"
+                                    }
+                                }
+                            ]
+                        },
+                        "type": "statement",
+                        "rank": "normal"
+                    },
+                    {
+                        "id": "q4115189$c83cf522-4b7e-9d43-5d55-3d9006a397f0",
+                        "mainsnak": {
+                            "snaktype": "value",
+                            "property": "p393",
+                            "datavalue": {
+                                "value": "1-fr",
+                                "type": "string"
+                            }
+                        },
+                        "qualifiers": {
+                            "p392": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "p392",
+                                    "datavalue": {
+                                        "value": "Le vieux qui ne voulait pas f\u00eater son anniversaire",
+                                        "type": "string"
+                                    }
+                                }
+                            ],
+                            "p407": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "p407",
+                                    "datavalue": {
+                                        "value": {
+                                            "entity-type": "item",
+                                            "numeric-id": 150
+                                        },
+                                        "type": "wikibase-entityid"
+                                    }
+                                }
+                            ],
+                            "p243": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "p243",
+                                    "datavalue": {
+                                        "value": "793479159",
+                                        "type": "string"
+                                    }
+                                }
+                            ],
+                            "p212": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "p212",
+                                    "datavalue": {
+                                        "value": "978-22-66218-52-8",
+                                        "type": "string"
+                                    }
+                                }
+                            ]
+                        },
+                        "type": "statement",
+                        "rank": "normal"
+                    },
+                    {
+                        "id": "q4115189$afc2bac6-4302-f2da-dc63-50e206e17634",
+                        "mainsnak": {
+                            "snaktype": "value",
+                            "property": "p393",
+                            "datavalue": {
+                                "value": "1-es",
+                                "type": "string"
+                            }
+                        },
+                        "qualifiers": {
+                            "p392": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "p392",
+                                    "datavalue": {
+                                        "value": "El abuelo que salt\u00f3 por la ventana y se larg\u00f3",
+                                        "type": "string"
+                                    }
+                                }
+                            ],
+                            "p407": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "p407",
+                                    "datavalue": {
+                                        "value": {
+                                            "entity-type": "item",
+                                            "numeric-id": 1321
+                                        },
+                                        "type": "wikibase-entityid"
+                                    }
+                                }
+                            ]
+                        },
+                        "type": "statement",
+                        "rank": "normal"
+                    },
+                    {
+                        "id": "q4115189$7076dc14-432f-cf6e-cbd2-2e29f987fdc2",
+                        "mainsnak": {
+                            "snaktype": "value",
+                            "property": "p393",
+                            "datavalue": {
+                                "value": "1-da",
+                                "type": "string"
+                            }
+                        },
+                        "qualifiers": {
+                            "p370": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "p370",
+                                    "datavalue": {
+                                        "value": "Edition type: Audiobook",
+                                        "type": "string"
+                                    }
+                                }
+                            ],
+                            "p212": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "p212",
+                                    "datavalue": {
+                                        "value": "9788770539067",
+                                        "type": "string"
+                                    }
+                                }
+                            ],
+                            "p407": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "p407",
+                                    "datavalue": {
+                                        "value": {
+                                            "entity-type": "item",
+                                            "numeric-id": 9035
+                                        },
+                                        "type": "wikibase-entityid"
+                                    }
+                                }
+                            ]
+                        },
+                        "type": "statement",
+                        "rank": "normal"
+                    },
+                    {
+                        "id": "q4115189$6a749273-4557-8dcf-cb65-9609a2b4ba1b",
+                        "mainsnak": {
+                            "snaktype": "value",
+                            "property": "p393",
+                            "datavalue": {
+                                "value": "1-en-nyc",
+                                "type": "string"
+                            }
+                        },
+                        "qualifiers": {
+                            "p212": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "p212",
+                                    "datavalue": {
+                                        "value": "978-14-01324-64-3",
+                                        "type": "string"
+                                    }
+                                }
+                            ],
+                            "p407": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "p407",
+                                    "datavalue": {
+                                        "value": {
+                                            "entity-type": "item",
+                                            "numeric-id": 1860
+                                        },
+                                        "type": "wikibase-entityid"
+                                    }
+                                }
+                            ],
+                            "p291": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "p291",
+                                    "datavalue": {
+                                        "value": {
+                                            "entity-type": "item",
+                                            "numeric-id": 60
+                                        },
+                                        "type": "wikibase-entityid"
+                                    }
+                                }
+                            ],
+                            "p123": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "p123",
+                                    "datavalue": {
+                                        "value": {
+                                            "entity-type": "item",
+                                            "numeric-id": 55233
+                                        },
+                                        "type": "wikibase-entityid"
+                                    }
+                                }
+                            ],
+                            "p392": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "p392",
+                                    "datavalue": {
+                                        "value": "The 100-year-old man who climbed out the window and disappeared",
+                                        "type": "string"
+                                    }
+                                }
+                            ]
+                        },
+                        "type": "statement",
+                        "rank": "normal"
+                    },
+                    {
+                        "id": "q4115189$8826002b-498a-f6fe-acc1-9fe3058bee55",
+                        "mainsnak": {
+                            "snaktype": "value",
+                            "property": "p393",
+                            "datavalue": {
+                                "value": "1-en-lon",
+                                "type": "string"
+                            }
+                        },
+                        "qualifiers": {
+                            "p212": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "p212",
+                                    "datavalue": {
+                                        "value": "978-18-43913-72-6 ",
+                                        "type": "string"
+                                    }
+                                }
+                            ],
+                            "p243": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "p243",
+                                    "datavalue": {
+                                        "value": "821063342",
+                                        "type": "string"
+                                    }
+                                }
+                            ],
+                            "p407": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "p407",
+                                    "datavalue": {
+                                        "value": {
+                                            "entity-type": "item",
+                                            "numeric-id": 1860
+                                        },
+                                        "type": "wikibase-entityid"
+                                    }
+                                }
+                            ],
+                            "p291": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "p291",
+                                    "datavalue": {
+                                        "value": {
+                                            "entity-type": "item",
+                                            "numeric-id": 84
+                                        },
+                                        "type": "wikibase-entityid"
+                                    }
+                                }
+                            ]
+                        },
+                        "type": "statement",
+                        "rank": "normal"
+                    }
+                ]
+            },
+            "sitelinks": {
+                "enwiki": {
+                    "site": "enwiki",
+                    "title": "Wikipedia:Wikidata/Wikidata Sandbox"
+                },
+                "eswiki": {
+                    "site": "eswiki",
+                    "title": "Plantilla:Ficha de entidad subnacional/zona de pruebas"
+                },
+                "nlwiki": {
+                    "site": "nlwiki",
+                    "title": "Wikipedia:Wikidata/zandbak"
+                },
+                "zhwiki": {
+                    "site": "zhwiki",
+                    "title": "Wikipedia:\u7ef4\u57fa\u6570\u636e/\u6c99\u76d2"
+                }
+            }
+        }
+    },
+    "success": 1
+}
